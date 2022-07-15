@@ -1,0 +1,78 @@
+# picom.conf
+
+backend = "glx"
+dbus = true;
+vsync = true;
+
+# glx
+glx-copy-from-front = false;
+glx-no-stencil = true;
+
+detect-client-leader = true;
+detect-client-opacity = true;
+detect-rounded-corners = true;
+detect-transient = true;
+mark-ovredir-focused = true;
+mark-wmwin-focused = true;
+use-ewmh-active-win = true;
+xrender-sync-fence = true;
+
+# shadow
+shadow = true;
+shadow-radius = 7;
+shadow-opacity = .55;
+shadow-offset-x = -7;
+shadow-offset-y = -5;
+shadow-exclude = [
+  "class_g = 'brave' && window_type *= 'utility'",
+  "class_g = 'brave' && window_type *= 'menu'",
+  "_NET_WM_STATE@:32a *= '_NET_WM_STATE_HIDDEN'",
+  "_GTK_FRAME_EXTENTS@:c",
+];
+shadow-ignore-shaped = false
+
+# opacity
+opacity = false;
+#active-opacity = 1;
+#inactive-opacity = 1;
+#inactive-opacity-override = false;
+#frame-opacity = 1.0;
+#opacity-rule = [
+#    "90:class_g *?= 'rofi'",
+#];
+
+# fading
+fading = true;
+fade-delta = 5;
+fade-in-step = 0.025;
+fade-out-step = 0.03;
+no-fading-openclose = false;
+no-fading-destroyed-argb = true;
+#fade-exclude = [
+#    "class_g *?= 'rofi'",
+#];
+
+# window type
+wintypes:
+{
+    tooltip = {
+        fade = true;
+        shadow = true;
+        opacity = 1.0;
+        focus = true;
+    };
+    popup_menu = {
+        fade = true;
+        shadow = true;
+        opacity = 1.0;
+        focus = true;
+    };
+    dropdown_menu = {
+        fade = true;
+        shadow = true;
+        opacity = 1.0;
+        focus = true;
+    };
+    dock = { shadow = true; }
+    dnd = { shadow = false; }
+};
