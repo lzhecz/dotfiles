@@ -1,0 +1,5 @@
+include "/usr/share/nano-syntax-highlighting/*.nanorc"
+include "/usr/share/nano/*.nanorc"
+set linenumbers
+set mouse
+set autoindent
