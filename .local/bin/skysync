@@ -1,0 +1,9 @@
+#!/bin/sh
+
+echo "Remounting disk..."
+sudo umount /mnt/SamsungSSD
+sudo mount -o ro UUID="C61A2EAC1A2E9987" /mnt/SamsungSSD
+echo "Remounting done."
+echo "Syncyng files..."
+rsync -ahP --delete "/mnt/SamsungSSD/Progs/Steam/steamapps/common/Skyrim Special Edition/" "/home/lzhecz/.local/share/Steam/steamapps/common/Skyrim Special Edition"
+echo "Done."

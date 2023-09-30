@@ -1,0 +1,75 @@
+#!/bin/bash
+# A simple wrapper around maim
+#
+# When run, the screenshot will be added to the clipboard
+# The file path will be put in the primary selection
+# Will create notification containing file path
+#
+# If you have a project specified, it will put the sceenshot in that folder instead of /tmp
+#
+# Relies on maim for taking screenshot
+# If you give it the -o flag for ocr, it needs tesseract
+
+
+path='/home/lzhecz/Pictures/Screenshots'
+command -v maim > /dev/null && screenshooter="maim" || ( echo -n "You need to install maim\nhttps://github.com/naelstrof/maim" && exit 1 )
+ocr="false"
+lastactionfile="${XDG_DATA_HOME:-$HOME/.local/share}/lastaction"
+
+#If a project is set we will put screenshots in the project's folder
+command -v project > /dev/null && project=$(project current --path)
+if [ -n "$project" ]; then
+	path="$project/screenshots"
+	#Make the directory if it doesn't exist
+	mkdir "$path" 2> /dev/null
+fi
+
+filename="$(date +"%Y-%m-%dT%H-%M-%SZ").png"
+file="${path}/${filename}"
+
+[ "$1" = "-w" ] && sleep "$2" && shift && shift
+[ "$1" = "-o" ] && ocr="true" && shift
+
+case "$1" in
+	"window")
+		if [ -n "$WAYLAND_DISPLAY" ]; then
+			notify-send "Can't get current window yet in wayland"
+		else
+			maim -i $(xdotool getactivewindow) "$file"
+		fi
+		;;
+	"select")
+		if [ -n "$WAYLAND_DISPLAY" ]; then
+			grim -g "$(slurp)" "$file"
+		else
+			#maim -s -r crosshair "$file"
+			maim -s -c 0.41,0.62,0.42,0.2 -l -u "$file"
+		fi
+		;;
+	*)
+		if [ -n "$WAYLAND_DISPLAY" ]; then
+			grim "$file"
+		else
+			maim "$file"
+		fi
+		;;
+esac
+
+
+
+if [ -f "$file" ]; then
+	if [ -n "$WAYLAND_DISPLAY" ]; then
+		# Copies the image to your clipboard (ctrl + v)
+		wl-copy <  "$file"
+		# Copies the filename to primary selection (shift + insert or middle mouse)
+		echo -n "$file" | wl-copy --primary
+	else
+		# Copies the image to your clipboard (ctrl + v)
+		xclip -selection clipboard -target image/png -i "$file"
+		# Copies the filename to primary selection (shift + insert or middle mouse)
+		echo -n "$file" | xclip -selection primary
+	fi
+	# Creates notification with file name
+	notify-send "New Screenshot" "$file"
+	echo "screenshot $file" > "$lastactionfile"
+fi
