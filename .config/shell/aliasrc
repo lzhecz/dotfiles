@@ -35,3 +35,4 @@ mvr() {
   rsync --archive -hh --partial --info=stats1,progress2 --modify-window=1 --remove-source-files "$@"
 }
 alias config='/usr/bin/git --git-dir=/home/lzhecz/.cfg/ --work-tree=/home/lzhecz'
+alias configls="config ls-tree -r --name-only @ | cut -f1,2 -d '/' | uniq"
