@@ -1,0 +1,50 @@
+#!/bin/sh
+
+# This file runs when a DM logs you into a graphical session.
+# If you use startx/xinit like a Chad, this file will also be sourced.
+
+#xrandr --auto
+xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary # if no second display
+xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary --output HDMI-0 --mode 1024x600 --pos 3440x0
+#xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary --output HDMI-0 --mode 1024x768 --pos 3440x0
+xinput --map-to-output 'wch.cn USB2IIC_CTP_CONTROL' HDMI-0 # map touchscreen display
+xinput create-master touchscreen
+xinput reattach 'wch.cn USB2IIC_CTP_CONTROL' 'touchscreen pointer'
+#xrandr x--output DP-4 --mode 3440x1440 --rate 165.00 --output HDMI-0 --off
+#xrandr --output DP-2 --mode 3440x1440 --rate 165.00 --output HDMI-0 --off
+#xrandr --output DP-4 -r 165 --output HDMI-0 --off
+#xrandr --dpi 96		# Set DPI. User may want to use a larger number for larger screens.
+setbg &			# set the background with the `setbg` script
+picom &  # compositor
+udiskie --appindicator -t &  # automount
+#nm-applet &
+#/usr/lib/kdeconnectd &
+blueberry-tray &
+#pipewire -c filter-chain.conf &  # noice filter profile
+deadd-notification-center &  # notification with buttons and images
+#polkit-dumb-agent &
+lxpolkit &
+#scream -o pulse -i virbr0 &solaar &  # % wireless mouse
+#valent & # gtk kdeconnect
+
+xrdb ${XDG_CONFIG_HOME:-$HOME/.config}/x11/xresources & xrdbpid=$!	# Uncomment to use Xresources colors/settings on startup
+
+
+#autostart="mpd xcompmgr dunst unclutter pipewire remapd"
+#autostart= "picom deadd-notification-center"
+
+for program in $autostart; do
+	pidof -sx "$program" || "$program" &
+done >/dev/null 2>&1
+
+
+# make sure that only one ssh-agent process runs at a time
+#if ! pgrep -u "$USER" ssh-agent > /dev/null; then
+#    ssh-agent -t 1h > "$XDG_RUNTIME_DIR/ssh-agent.env"
+#fi
+#if [[ ! -f "$SSH_AUTH_SOCK" ]]; then
+#    source "$XDG_RUNTIME_DIR/ssh-agent.env" >/dev/null
+#fi
+
+# Ensure that xrdb has finished running before moving on to start the WM/DE.
+[ -n "$xrdbpid" ] && wait "$xrdbpid"

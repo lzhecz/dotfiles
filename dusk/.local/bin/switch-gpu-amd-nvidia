@@ -1,0 +1,96 @@
+#!/bin/bash
+
+GREEN=$'\e[0;32m'
+RED=$'\e[0;31m'
+NC=$'\e[0m'
+AMD=${RED}AMD${NC}
+NVIDIA=${GREEN}NVIDIA${NC}
+
+# mkinit to nvidia
+echo "Current state:"
+cat /etc/mkinitcpio.conf
+
+PS3="Select GPU to switch: "
+select result in $AMD $NVIDIA Cancel
+do
+    case $result in
+        "$AMD")
+            #uncomment amd line
+            #MODULES=(amdgpu btrfs vfio_pci vfio vfio_iommu_type1)
+            sudo sed -i '1s/.//' /etc/mkinitcpio.conf
+            #comment nvidia line
+            sudo sed -i '2s/^/#&/' /etc/mkinitcpio.conf
+            #show results
+            echo ""
+            echo "Result:"
+            cat /etc/mkinitcpio.conf
+            sudo mkinitcpio -p linux-zen
+            echo ""
+            echo "Switched to $AMD"
+
+            #backup previous xorg.conf by nvidia settings
+            sudo mv /etc/X11/xorg.conf /etc/X11/xorg.conf.backup_nvidia
+            #X11 priority swap
+            echo "Swaping X11 GPU configs"
+
+            sudo mv /etc/X11/xorg.conf.d/20-amd.conf /etc/X11/xorg.conf.d/10-amd.conf
+            sudo mv /etc/X11/xorg.conf.d/10-nvidia.conf /etc/X11/xorg.conf.d/20-nvidia.conf
+            echo "Result: "
+            echo $(ls /etc/X11/xorg.conf.d)
+
+            # line in grub iommu=on
+            sudo sed -i '7s/.//' /etc/default/grub
+            sudo sed -i '6s/^/#&/' /etc/default/grub
+            echo "GRUB updated:"
+            sed '6!d' /etc/default/grub
+            sed '7!d' /etc/default/grub
+            #regenerate grub
+            sudo grub-mkconfig -o /boot/grub/grub.cfg
+            echo "GRUB boot config generated!"
+            break;;
+
+
+        "$NVIDIA")
+            #uncomment nvidia line
+            #MODULES=(nvidia nvidia_modeset nvidia_uvm nvidia_drm amdgpu btrfs)
+            sudo sed -i '2s/.//' /etc/mkinitcpio.conf
+            #comment amd line
+            sudo sed -i '1s/^/#&/' /etc/mkinitcpio.conf
+            #show results
+            echo ""
+            echo "Result:"
+            cat /etc/mkinitcpio.conf
+            sudo mkinitcpio -p linux-zen
+            echo ""
+            echo "Switched to $NVIDIA"
+
+            #restore previous xorg.conf by nvidia settings
+            sudo mv /etc/X11/xorg.conf.backup_nvidia /etc/X11/xorg.conf
+            #X11 priority swap
+            echo "Swaping X11 GPU configs"
+            sudo mv /etc/X11/xorg.conf.d/10-amd.conf /etc/X11/xorg.conf.d/20-amd.conf
+            sudo mv /etc/X11/xorg.conf.d/20-nvidia.conf /etc/X11/xorg.conf.d/10-nvidia.conf
+            echo "Result: "
+            echo $(ls /etc/X11/xorg.conf.d)
+
+            # line in grub iommu=off
+            sudo sed -i '6s/.//' /etc/default/grub
+            sudo sed -i '7s/^/#&/' /etc/default/grub
+            echo "GRUB updated:"
+            sed '6!d' /etc/default/grub
+            sed '7!d' /etc/default/grub
+            #regenerate grub
+            sudo grub-mkconfig -o /boot/grub/grub.cfg
+            echo "GRUB boot config generated!"
+            break;;
+
+        "Cancel")
+           echo "Abort"
+           break;;
+        *)
+           echo "Ooops";;
+    esac
+done
+
+
+

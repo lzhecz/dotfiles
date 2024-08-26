@@ -1,0 +1,28 @@
+{
+    "fan_cooling_layer_time": [
+        "60"
+    ],
+    "filament_cost": [
+        "13"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_settings_id": [
+        "Elegoo PLA"
+    ],
+    "filament_vendor": [
+        "Elegoo"
+    ],
+    "from": "User",
+    "inherits": "My Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Elegoo PLA",
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "1"
+    ],
+    "version": "1.6.0.0"
+}

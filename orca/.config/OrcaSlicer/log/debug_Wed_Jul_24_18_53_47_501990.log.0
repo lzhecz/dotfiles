@@ -1,0 +1,15 @@
+[warning]	2024-07-24 18:53:47.411337[Thread 0x000077983e0b8b80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-07-24 18:53:47.411397[Thread 0x000077983e0b8b80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-24 18:53:47.411408[Thread 0x000077983e0b8b80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-24 18:53:47.630614[Thread 0x00007797bb4006c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2024-07-24 18:53:47.630626[Thread 0x00007797bb4006c0]:Dbus Messages listening terminating.
+[error]	2024-07-24 18:53:47.923469[Thread 0x000077983e0b8b80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 18:53:47.927929[Thread 0x00007797af8006c0]:Unable to open the file/home/lzhecz/.config/OrcaSlicer/log/Development.3mf
+[warning]	2024-07-24 18:53:48.181543[Thread 0x000077983e0b8b80]:06:53:48 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-07-24 18:53:48.182681[Thread 0x000077983e0b8b80]:06:53:48 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-07-24 18:53:48.183527[Thread 0x000077983e0b8b80]:06:53:48 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-07-24 18:53:48.184765[Thread 0x000077983e0b8b80]:06:53:48 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-07-24 18:53:49.030088[Thread 0x000077983e0b8b80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-24 18:53:50.544558[Thread 0x000077983e0b8b80]:connect_server error: network_agent=0x645ed1a2c460, ret=-2
+[warning]	2024-07-24 18:53:50.891704[Thread 0x00007797c14006c0]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[error]	2024-07-24 18:53:58.563164[Thread 0x000077983e0b8b80]:calc_exclude_triangles:Unable to create exclude triangles

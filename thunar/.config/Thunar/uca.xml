@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1698858778528433-1</unique-id>
+	<command>st</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon>emblem-symbolic-link</icon>
+	<name>Create Symlink</name>
+	<submenu></submenu>
+	<unique-id>1722085367961128-1</unique-id>
+	<command>ln -s %f %n</command>
+	<description>Create symbolic link in current directory</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon></icon>
+	<name>Paste as Symlink
+</name>
+	<submenu></submenu>
+	<unique-id>1722085961257646-2</unique-id>
+	<command>target=$(zenity --file-selection --title=&quot;Select target file&quot;); ln -s &quot;$target&quot; .</command>
+	<description>Paste as Symlink
+</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>

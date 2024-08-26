@@ -1,0 +1,101 @@
+[warning]	2024-08-16 18:46:05.666960[Thread 0x00007b285e338b80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-08-16 18:46:05.667034[Thread 0x00007b285e338b80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-08-16 18:46:05.667045[Thread 0x00007b285e338b80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-08-16 18:46:05.677113[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm PETG @Elegoo Neptune4Pro (0.4 nozzle)-OpenNept4une.json!
+[error]	2024-08-16 18:46:05.677216[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm-8k 25mvs.json!
+[error]	2024-08-16 18:46:05.677431[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.2 TPU.json!
+[error]	2024-08-16 18:46:05.677544[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm- TPU.json!
+[error]	2024-08-16 18:46:05.677636[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm PET.json!
+[error]	2024-08-16 18:46:05.677742[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle)-OpenNept4une.json!
+[error]	2024-08-16 18:46:05.677843[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm OpenNeptune outer first.json!
+[error]	2024-08-16 18:46:05.677939[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm.json!
+[error]	2024-08-16 18:46:05.678044[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.8 Nozzle HS.json!
+[error]	2024-08-16 18:46:05.678151[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.4 Nozzle Brass - 0.3 mm rough.json!
+[error]	2024-08-16 18:46:05.678255[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.8 Nozzle HS - 0.3.json!
+[error]	2024-08-16 18:46:05.678358[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.6 nozzle - 0.2.json!
+[error]	2024-08-16 18:46:05.680690[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/Elegoo Generic PETG-OpenNept4une.json!
+[error]	2024-08-16 18:46:05.680715[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/Elegoo Generic PLA - Copy.json!
+[error]	2024-08-16 18:46:05.680763[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/Elegoo Generic PLA - OpenNept4une.json!
+[error]	2024-08-16 18:46:05.680812[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA - 215+65 - Fans 100.json!
+[error]	2024-08-16 18:46:05.680850[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA stock.json!
+[error]	2024-08-16 18:46:05.680987[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/TPU.json!
+[error]	2024-08-16 18:46:05.681184[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PETG 260.json!
+[error]	2024-08-16 18:46:05.681231[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/Meta PLA - 190+60 - Fans 100.json!
+[error]	2024-08-16 18:46:05.681276[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA - 200+60 - Fans 100.json!
+[error]	2024-08-16 18:46:05.681327[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/Elegoo Generic PLA-OpenNept4une.json!
+[error]	2024-08-16 18:46:05.681380[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/190+60 PLA OpenNept4une.json!
+[error]	2024-08-16 18:46:05.681437[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA 0.8 HS.json!
+[error]	2024-08-16 18:46:05.681490[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PETG 280.json!
+[error]	2024-08-16 18:46:05.681544[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA 220.json!
+[error]	2024-08-16 18:46:05.681604[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA 230.json!
+[error]	2024-08-16 18:46:05.681659[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/test PLA 0.6 200.json!
+[error]	2024-08-16 18:46:05.681715[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA 220 - new flow ratio.json!
+[error]	2024-08-16 18:46:05.681782[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/NotPro PLA 220 +flow+pa.json!
+[error]	2024-08-16 18:46:05.681850[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/PLA 240.json!
+[error]	2024-08-16 18:46:05.681910[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/NotPro PLA 240 +flow+pa.json!
+[error]	2024-08-16 18:46:05.681966[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/2Pro PLA 240 +flow.json!
+[error]	2024-08-16 18:46:05.682023[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/2Pro PLA 240 +flow +pa.json!
+[error]	2024-08-16 18:46:05.682086[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/NotPro PLA 220 +flow+pa ! Silk Green.json!
+[error]	2024-08-16 18:46:05.682897[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/N4Pro.json!
+[error]	2024-08-16 18:46:05.682986[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/N4.json!
+[error]	2024-08-16 18:46:05.683067[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/N4Pro2.json!
+[error]	2024-08-16 18:46:05.683263[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/N4 0.8.json!
+[error]	2024-08-16 18:46:05.683342[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/Elegoo Neptune 4 Pro (0.4 nozzle)-OpenNept4une.json!
+[error]	2024-08-16 18:46:05.683416[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/1Pro - 0.4 Nozzle Stainless Steel.json!
+[error]	2024-08-16 18:46:05.683487[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/1Pro - 0.8 Nozzle HS.json!
+[error]	2024-08-16 18:46:05.683561[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/2Pro - 0.4 Nozzle Brass.json!
+[error]	2024-08-16 18:46:05.683636[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/NotPro - 0.4 Nozzle Brass.json!
+[error]	2024-08-16 18:46:05.683723[Thread 0x00007b285e338b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/NotPro - 0.6 Nozzle Copper Plated.json!
+[error]	2024-08-16 18:46:06.177056[Thread 0x00007b285e338b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:46:06.344397[Thread 0x00007b285e338b80]:06:46:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:46:06.373677[Thread 0x00007b285e338b80]:06:46:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:46:06.374070[Thread 0x00007b285e338b80]:06:46:06 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:46:06.374392[Thread 0x00007b285e338b80]:06:46:06 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-08-16 18:46:06.909233[Thread 0x00007b285e338b80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:46:06.923964[Thread 0x00007b285e338b80]:connect_server error: network_agent=0x5da76316b0b0, ret=-2
+[warning]	2024-08-16 18:46:07.387271[Thread 0x00007b28398006c0]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[warning]	2024-08-16 18:46:22.039653[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm, just skip
+[warning]	2024-08-16 18:46:22.039727[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm OpenNeptune outer first, just skip
+[warning]	2024-08-16 18:46:22.039784[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm PET, just skip
+[warning]	2024-08-16 18:46:22.039828[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm PETG @Elegoo Neptune4Pro (0.4 nozzle)-OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.039878[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle)-OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.039942[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm- TPU, just skip
+[warning]	2024-08-16 18:46:22.039989[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.20mm-8k 25mvs, just skip
+[warning]	2024-08-16 18:46:22.040047[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.4 Nozzle Brass - 0.3 mm rough, just skip
+[warning]	2024-08-16 18:46:22.040099[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.6 nozzle - 0.2, just skip
+[warning]	2024-08-16 18:46:22.040151[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.8 Nozzle HS, just skip
+[warning]	2024-08-16 18:46:22.040201[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 0.8 Nozzle HS - 0.3, just skip
+[warning]	2024-08-16 18:46:22.040237[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 190+60 PLA OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.040284[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 1Pro - 0.4 Nozzle Stainless Steel, just skip
+[warning]	2024-08-16 18:46:22.040320[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 1Pro - 0.8 Nozzle HS, just skip
+[warning]	2024-08-16 18:46:22.040353[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 2Pro - 0.4 Nozzle Brass, just skip
+[warning]	2024-08-16 18:46:22.040378[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 2Pro PLA 240 +flow, just skip
+[warning]	2024-08-16 18:46:22.040402[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset 2Pro PLA 240 +flow +pa, just skip
+[warning]	2024-08-16 18:46:22.040420[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset Elegoo Generic PETG-OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.040428[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset Elegoo Generic PLA - Copy, just skip
+[warning]	2024-08-16 18:46:22.040441[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset Elegoo Generic PLA - OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.040459[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset Elegoo Generic PLA-OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.040490[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset Elegoo Neptune 4 Pro (0.4 nozzle)-OpenNept4une, just skip
+[warning]	2024-08-16 18:46:22.040507[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset Meta PLA - 190+60 - Fans 100, just skip
+[warning]	2024-08-16 18:46:22.040541[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset N4, just skip
+[warning]	2024-08-16 18:46:22.040577[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset N4 0.8, just skip
+[warning]	2024-08-16 18:46:22.040609[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset N4Pro, just skip
+[warning]	2024-08-16 18:46:22.040641[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset N4Pro2, just skip
+[warning]	2024-08-16 18:46:22.040672[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset NotPro - 0.4 Nozzle Brass, just skip
+[warning]	2024-08-16 18:46:22.040703[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset NotPro - 0.6 Nozzle Copper Plated, just skip
+[warning]	2024-08-16 18:46:22.040726[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset NotPro PLA 220 +flow+pa, just skip
+[warning]	2024-08-16 18:46:22.040756[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset NotPro PLA 220 +flow+pa ! Silk Green, just skip
+[warning]	2024-08-16 18:46:22.040778[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset NotPro PLA 240 +flow+pa, just skip
+[warning]	2024-08-16 18:46:22.040835[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PETG 260, just skip
+[warning]	2024-08-16 18:46:22.040857[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PETG 280, just skip
+[warning]	2024-08-16 18:46:22.040873[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA - 200+60 - Fans 100, just skip
+[warning]	2024-08-16 18:46:22.040891[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA - 215+65 - Fans 100, just skip
+[warning]	2024-08-16 18:46:22.040911[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA 0.8 HS, just skip
+[warning]	2024-08-16 18:46:22.040931[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA 220, just skip
+[warning]	2024-08-16 18:46:22.040952[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA 220 - new flow ratio, just skip
+[warning]	2024-08-16 18:46:22.040976[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA 230, just skip
+[warning]	2024-08-16 18:46:22.040996[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA 240, just skip
+[warning]	2024-08-16 18:46:22.041010[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset PLA stock, just skip
+[warning]	2024-08-16 18:46:22.041039[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset TPU, just skip
+[warning]	2024-08-16 18:46:22.041059[Thread 0x00007b285e338b80]:load_user_preset, can not find inherit preset for user preset test PLA 0.6 200, just skip
+[error]	2024-08-16 18:46:22.617497[Thread 0x00007b285e338b80]:calc_exclude_triangles:Unable to create exclude triangles

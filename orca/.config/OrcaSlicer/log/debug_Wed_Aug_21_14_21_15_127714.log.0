@@ -1,0 +1,40 @@
+[error]	2024-08-21 14:21:15.917294[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 TPU.json!
+[error]	2024-08-21 14:21:15.917411[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PETG.json!
+[error]	2024-08-21 14:21:15.917498[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20 Solid.json!
+[error]	2024-08-21 14:21:15.917683[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.2 Strong.json!
+[error]	2024-08-21 14:21:15.917758[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.2 Prototyping.json!
+[error]	2024-08-21 14:21:15.917831[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.2 Balanced.json!
+[error]	2024-08-21 14:21:15.917911[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.15 Strong.json!
+[error]	2024-08-21 14:21:15.917987[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.15 Solid.json!
+[error]	2024-08-21 14:21:15.918062[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.15 Balanced.json!
+[error]	2024-08-21 14:21:15.918133[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA old.json!
+[error]	2024-08-21 14:21:15.918212[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA 8.5.json!
+[error]	2024-08-21 14:21:15.918397[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA SPEED.json!
+[error]	2024-08-21 14:21:15.918477[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA 7k.json!
+[error]	2024-08-21 14:21:15.918551[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA ringing test.json!
+[error]	2024-08-21 14:21:15.918663[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA 10k.json!
+[error]	2024-08-21 14:21:15.920835[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 - PLA.json!
+[error]	2024-08-21 14:21:15.920938[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLAфыв.json!
+[error]	2024-08-21 14:21:15.926554[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PET DIY.json!
+[error]	2024-08-21 14:21:15.926605[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PETG.json!
+[error]	2024-08-21 14:21:15.926892[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone TPU.json!
+[error]	2024-08-21 14:21:15.926960[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PLA HS.json!
+[error]	2024-08-21 14:21:15.927013[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PLA.json!
+[error]	2024-08-21 14:21:15.927070[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Sunlu PLA.json!
+[error]	2024-08-21 14:21:15.927126[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PLA Optimal.json!
+[error]	2024-08-21 14:21:15.927186[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PLA 10k.json!
+[error]	2024-08-21 14:21:15.927563[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo PLA.json!
+[error]	2024-08-21 14:21:15.931963[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4PRO 2 BiffiestYT.json!
+[error]	2024-08-21 14:21:15.932284[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4PRO BiffiestYT.json!
+[error]	2024-08-21 14:21:15.932483[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4 BiffiestYT.json!
+[error]	2024-08-21 14:21:15.932665[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4PRO.4.json!
+[error]	2024-08-21 14:21:15.933757[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 - PLA - Biffest OPEN orig tipa.json!
+[error]	2024-08-21 14:21:15.934062[Thread 0x0000790346d32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 - PLA.json!
+[error]	2024-08-21 14:21:16.662637[Thread 0x0000790346d32b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-21 14:21:16.969478[Thread 0x0000790346d32b80]:02:21:16 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-21 14:21:16.970985[Thread 0x0000790346d32b80]:02:21:16 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-21 14:21:16.972325[Thread 0x0000790346d32b80]:02:21:16 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-21 14:21:16.973622[Thread 0x0000790346d32b80]:02:21:16 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-08-21 14:21:17.903847[Thread 0x0000790346d32b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-21 14:21:17.924655[Thread 0x0000790346d32b80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-21 14:21:19.155322[Thread 0x0000790346d32b80]:calc_exclude_triangles:Unable to create exclude triangles

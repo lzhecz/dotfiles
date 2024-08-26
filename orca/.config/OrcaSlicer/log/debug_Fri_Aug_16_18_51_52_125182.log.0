@@ -1,0 +1,77 @@
+[error]	2024-08-16 18:51:52.855055[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 TPU.json!
+[error]	2024-08-16 18:51:52.855152[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PETG.json!
+[error]	2024-08-16 18:51:52.855221[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20 Solid.json!
+[error]	2024-08-16 18:51:52.855285[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.2 Strong.json!
+[error]	2024-08-16 18:51:52.855345[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.2 Prototyping.json!
+[error]	2024-08-16 18:51:52.855406[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.2 Balanced.json!
+[error]	2024-08-16 18:51:52.855473[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.15 Strong.json!
+[error]	2024-08-16 18:51:52.855537[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.15 Solid.json!
+[error]	2024-08-16 18:51:52.855597[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.15 Balanced.json!
+[error]	2024-08-16 18:51:52.855657[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA old.json!
+[error]	2024-08-16 18:51:52.855724[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA 8.5.json!
+[error]	2024-08-16 18:51:52.855794[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA SPEED.json!
+[error]	2024-08-16 18:51:52.855856[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA 7k.json!
+[error]	2024-08-16 18:51:52.855918[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA ringing test.json!
+[error]	2024-08-16 18:51:52.855982[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLA 10k.json!
+[error]	2024-08-16 18:51:52.856945[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 - PLA.json!
+[error]	2024-08-16 18:51:52.857008[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm @Neptune 4 PLAфыв.json!
+[error]	2024-08-16 18:51:52.857994[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PET DIY.json!
+[error]	2024-08-16 18:51:52.858024[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PETG.json!
+[error]	2024-08-16 18:51:52.858098[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone TPU.json!
+[error]	2024-08-16 18:51:52.858143[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PLA HS.json!
+[error]	2024-08-16 18:51:52.858182[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PLA.json!
+[error]	2024-08-16 18:51:52.858220[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Sunlu PLA.json!
+[error]	2024-08-16 18:51:52.858260[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PLA Optimal.json!
+[error]	2024-08-16 18:51:52.858306[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Eryone PLA 10k.json!
+[error]	2024-08-16 18:51:52.858577[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo PLA.json!
+[error]	2024-08-16 18:51:52.858863[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4PRO 2 BiffiestYT.json!
+[error]	2024-08-16 18:51:52.858923[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4PRO BiffiestYT.json!
+[error]	2024-08-16 18:51:52.858980[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4 BiffiestYT.json!
+[error]	2024-08-16 18:51:52.859037[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4PRO.4.json!
+[error]	2024-08-16 18:51:52.859370[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 - PLA - Biffest OPEN orig tipa.json!
+[error]	2024-08-16 18:51:52.859419[Thread 0x000074f867f32b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 - PLA.json!
+[error]	2024-08-16 18:51:53.378283[Thread 0x000074f867f32b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:51:53.582324[Thread 0x000074f867f32b80]:06:51:53 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:51:53.583975[Thread 0x000074f867f32b80]:06:51:53 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:51:53.585339[Thread 0x000074f867f32b80]:06:51:53 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:51:53.586370[Thread 0x000074f867f32b80]:06:51:53 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-08-16 18:51:54.141496[Thread 0x000074f867f32b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:51:54.155546[Thread 0x000074f867f32b80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-16 18:52:46.129146[Thread 0x000074f867f32b80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-16 18:52:49.475776[Thread 0x000074f867f32b80]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2024-08-16 18:53:25.496220[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Eryone PETG, just skip
+[warning]	2024-08-16 18:53:25.496314[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Eryone TPU, just skip
+[warning]	2024-08-16 18:53:25.496352[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Eryone PLA HS, just skip
+[warning]	2024-08-16 18:53:25.496383[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Eryone PLA, just skip
+[warning]	2024-08-16 18:53:25.496411[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Sunlu PLA, just skip
+[warning]	2024-08-16 18:53:25.496443[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset PLA Optimal, just skip
+[warning]	2024-08-16 18:53:25.496481[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Eryone PLA 10k, just skip
+[warning]	2024-08-16 18:53:25.496503[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Elegoo PLA, just skip
+[warning]	2024-08-16 18:53:25.496541[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset PET DIY, just skip
+[warning]	2024-08-16 18:53:25.499546[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset My Generic TPU - Copy, just skip
+[warning]	2024-08-16 18:53:41.458307[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 TPU, just skip
+[warning]	2024-08-16 18:53:41.458375[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PETG, just skip
+[warning]	2024-08-16 18:53:41.458439[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20 Solid, just skip
+[warning]	2024-08-16 18:53:41.458493[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.2 Strong, just skip
+[warning]	2024-08-16 18:53:41.458543[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.2 Prototyping, just skip
+[warning]	2024-08-16 18:53:41.458593[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.2 Balanced, just skip
+[warning]	2024-08-16 18:53:41.458649[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.15 Strong, just skip
+[warning]	2024-08-16 18:53:41.458701[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.15 Solid, just skip
+[warning]	2024-08-16 18:53:41.458758[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.15 Balanced, just skip
+[warning]	2024-08-16 18:53:41.458810[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLA old, just skip
+[warning]	2024-08-16 18:53:41.458868[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLA 8.5, just skip
+[warning]	2024-08-16 18:53:41.458922[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLA SPEED, just skip
+[warning]	2024-08-16 18:53:41.458974[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLA 7k, just skip
+[warning]	2024-08-16 18:53:41.459025[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLA ringing test, just skip
+[warning]	2024-08-16 18:53:41.459083[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLA 10k, just skip
+[warning]	2024-08-16 18:53:41.459125[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 - PLA, just skip
+[warning]	2024-08-16 18:53:41.459174[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset 0.20mm @Neptune 4 PLAфыв, just skip
+[warning]	2024-08-16 18:53:55.359125[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset N4PRO 2 BiffiestYT, just skip
+[warning]	2024-08-16 18:53:55.359190[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset N4PRO BiffiestYT, just skip
+[warning]	2024-08-16 18:53:55.359240[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset N4 BiffiestYT, just skip
+[warning]	2024-08-16 18:53:55.359290[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset N4PRO.4, just skip
+[warning]	2024-08-16 18:53:55.359358[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Elegoo Neptune 4 - PLA - Biffest OPEN orig tipa, just skip
+[warning]	2024-08-16 18:53:55.359397[Thread 0x000074f867f32b80]:import_json_presets, can not find inherit preset for user preset Elegoo Neptune 4 - PLA, just skip
+[error]	2024-08-16 18:54:16.811509[Thread 0x000074f867f32b80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:54:40.646168[Thread 0x000074f867f32b80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-16 19:32:13.752666[Thread 0x000074f867f32b80]:calc_exclude_triangles:Unable to create exclude triangles

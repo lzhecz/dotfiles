@@ -1,0 +1,35 @@
+{
+    "change_filament_gcode": "M600",
+    "extruder_clearance_height_to_lid": "34",
+    "extruder_clearance_height_to_rod": "34",
+    "extruder_clearance_radius": "47",
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "machine_end_gcode": "{if max_layer_z < printable_height}G1 Z{z_offset+min(max_layer_z+2, printable_height)} F600 ; Move print head up{endif}\nG1 X5 Y{print_bed_max[1]*0.8} F{travel_speed*60} ; present print\n{if max_layer_z < printable_height-10}G1 Z{z_offset+min(max_layer_z+70, printable_height-10)} F600 ; Move print head further up{endif}\n{if max_layer_z < printable_height*0.6}G1 Z{printable_height*0.6} F600 ; Move print head further up{endif}\nM140 S0 ; turn off heatbed\nM104 S0 ; turn off temperature\nM107 ; turn off fan\nM84 X Y E ; disable motors",
+    "machine_max_acceleration_travel": [
+        "9000",
+        "9000"
+    ],
+    "machine_start_gcode": ";ELEGOO NEPTUNE 4 PRO\nM220 S100 ;Set the feed speed to 100%\nM221 S100 ;Set the flow rate to 100%\nM104 S140\nM190 S[bed_temperature_initial_layer_single]\nG90 ; use absolute coordinates\nG28 ; home all axis\nG1 Z10 F300\nG1 X67.5 Y0 F6000\nG1 Z0 F300\nM109 S[nozzle_temperature_initial_layer]\nG92 E0 ;Reset Extruder\nG1 X67.5 Y0 Z0.4 F300 ;Move to start position\nG1 X167.5 E30 F400 ;Draw the first line\nG1 Z0.6 F120.0 ;Move to side a little\nG1 X162.5 F3000\nG92 E0 ;Reset Extruder",
+    "name": "N4PRO BiffiestYT",
+    "print_host": "192.168.100.32",
+    "printable_area": [
+        "0x0",
+        "235x0",
+        "235x235",
+        "0x235"
+    ],
+    "printable_height": "265",
+    "printer_settings_id": "N4PRO BiffiestYT",
+    "printhost_apikey": "eb962aac81eb4f66862a32b515762902",
+    "retraction_length": [
+        "0.6"
+    ],
+    "thumbnails": [
+        "600x600"
+    ],
+    "version": "1.6.0.0",
+    "z_hop": [
+        "0.1"
+    ]
+}

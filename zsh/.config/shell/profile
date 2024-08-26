@@ -1,0 +1,62 @@
+#!/bin/zsh
+unsetopt PROMPT_SP
+
+# Adds `~/.local/bin` to $PATH
+export PATH="$PATH:${$(find ~/.local/bin -type d -printf %p:)%%:}"
+export PATH="$PATH:${$(find ~/bin -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find ~/.scripts -type d -printf %p:)%%:}"
+# export PATH="$PATH:${$(find ~/.config/emacs/bin -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find /var/lib/flatpak/exports/bin -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find ~/.local/share/flatpak/exports/bin -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find /var/lib/flatpak/exports/bin -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find ~/.local/share/flatpak/exports/bin -type d -printf %p:)%%:}"
+
+# Default programs:
+export DESKTOP_SESSION="dusk"
+#export EDITOR="emacsclient -c -a 'emacs'"
+#export VISUAL="emacsclient -c -a 'emacs'"
+export EDITOR="nvim"
+export VISUAL="code"
+export TERMINAL="st"
+export BROWSER="brave"
+export SUDO_ASKPASS="dmenupass"
+export TERM=st
+export GTK_THEME="Materia-dark-compact"
+export PROTON_VERSION="Proton-GE"
+
+unset SSH_AGENT_PID
+if [ "${gnupg_SSH_AUTH_SOCK_by:-0}" -ne $$ ]; then
+  export SSH_AUTH_SOCK="$(gpgconf --list-dirs agent-ssh-socket)"
+fi
+export GPG_TTY=$(tty)
+gpg-connect-agent updatestartuptty /bye >/dev/null
+
+
+# ~/ Clean-up:
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_CACHE_HOME="$HOME/.cache"
+export XDG_STATE_HOME="$HOME/.local/state"
+export XDG_DATA_DIRS="$HOME/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share"
+export XINITRC="${XDG_CONFIG_HOME:-$HOME/.config}/x11/xinitrc"
+export ZDOTDIR="${XDG_CONFIG_HOME:-$HOME/.config}/zsh"
+export HISTFILE="${XDG_DATA_HOME:-$HOME/.local/share}/history"
+export ANDROID_HOME="$XDG_DATA_HOME/android"
+export CARGO_HOME="$XDG_DATA_HOME/cargo"
+export CUDA_CACHE_PATH="$XDG_CACHE_HOME/nv"
+export DOCKER_CONFIG="$XDG_CONFIG_HOME/docker"
+export WINEPREFIX="$XDG_DATA_HOME/wine"
+#export XAUTHORITY="$XDG_RUNTIME_DIR/Xauthority"
+export SSB_HOME="$XDG_DATA_HOME/zoom"
+
+
+export QT_QPA_PLATFORMTHEME="qt5ct"
+
+
+
+
+
+if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
+  exec startx "$XINITRC"
+
+fi

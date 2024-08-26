@@ -1,0 +1,19 @@
+{
+    "filament_settings_id": [
+        "Eryone PETG"
+    ],
+    "from": "User",
+    "inherits": "My Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Eryone PETG",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "260"
+    ],
+    "slow_down_layer_time": [
+        "4"
+    ],
+    "version": "1.6.1.0"
+}

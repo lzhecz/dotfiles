@@ -1,0 +1,36 @@
+[warning]	2024-07-25 10:25:41.653055[Thread 0x00007fadb337bb80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2024-07-25 10:25:41.653106[Thread 0x00007fadb337bb80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2024-07-25 10:25:41.653120[Thread 0x00007fadb337bb80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2024-07-25 10:25:41.714763[Thread 0x00007fadb337bb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/process/0.20mm @Neptune 4 TPU.json!
+[error]	2024-07-25 10:25:41.719800[Thread 0x00007fadb337bb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/filament/My Generic TPU - Copy.json!
+[error]	2024-07-25 10:25:41.726760[Thread 0x00007fadb337bb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/1684452280/machine/N4 BiffiestYT.json!
+[error]	2024-07-25 10:25:42.185335[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:42.191984[Thread 0x00007fad1d4006c0]:Unable to open the file/home/lzhecz/.config/OrcaSlicer/log/Development.3mf
+[warning]	2024-07-25 10:25:42.412921[Thread 0x00007fadb337bb80]:10:25:42 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-07-25 10:25:42.413811[Thread 0x00007fadb337bb80]:10:25:42 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-07-25 10:25:42.414932[Thread 0x00007fadb337bb80]:10:25:42 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-07-25 10:25:42.415835[Thread 0x00007fadb337bb80]:10:25:42 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-07-25 10:25:43.053728[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:43.075322[Thread 0x00007fadb337bb80]:connect_server error: network_agent=0x55f5f5845be0, ret=-2
+[warning]	2024-07-25 10:25:43.405620[Thread 0x00007fada90006c0]:[Orca Updater]: online version=1.9.3.1, current_version=1.9.3.1, no need to download
+[warning]	2024-07-25 10:25:43.431659[Thread 0x00007fadb337bb80]:load_user_preset, can not find inherit preset for user preset My Generic TPU - Copy, just skip
+[error]	2024-07-25 10:25:46.806774[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.639280[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.655964[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.672302[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.688931[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.705415[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.705764[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:48.706086[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-07-25 10:25:49.657744[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:25:50.819363[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:25:52.146026[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:25:54.245762[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:25:55.900222[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:25:57.254766[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:26:02.738186[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:26:03.849686[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:26:04.611092[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:26:05.641724[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 10:26:07.768367[Thread 0x00007fadb337bb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-07-25 14:49:24.900012[Thread 0x00007fadb337bb80]:calc_exclude_triangles:Unable to create exclude triangles

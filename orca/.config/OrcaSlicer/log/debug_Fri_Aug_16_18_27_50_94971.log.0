@@ -1,0 +1,56 @@
+[error]	2024-08-16 18:27:51.591118[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm PETG @Elegoo Neptune4Pro (0.4 nozzle)-OpenNept4une.json!
+[error]	2024-08-16 18:27:51.591362[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:27:51.591563[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm.json!
+[error]	2024-08-16 18:27:51.591763[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm 8k 18mvs.json!
+[error]	2024-08-16 18:27:51.591963[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm 8k.json!
+[error]	2024-08-16 18:27:51.592460[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm Standard @Elegoo Neptune4 (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:27:51.592661[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-8k.json!
+[error]	2024-08-16 18:27:51.592861[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-10k.json!
+[error]	2024-08-16 18:27:51.593044[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-10k 25mvs.json!
+[error]	2024-08-16 18:27:51.593244[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-8k 25mvs.json!
+[error]	2024-08-16 18:27:51.594192[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo Generic PETG-OpenNept4une.json!
+[error]	2024-08-16 18:27:51.594247[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PLA stock.json!
+[error]	2024-08-16 18:27:51.594286[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo Generic PLA - Copy.json!
+[error]	2024-08-16 18:27:51.594424[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PLA - 215+65 - Fans 100.json!
+[error]	2024-08-16 18:27:51.594474[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo Generic PLA - OpenNept4une.json!
+[error]	2024-08-16 18:27:51.595629[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2 - OpenNept4une.json!
+[error]	2024-08-16 18:27:51.595812[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2 - OpenNept4une - NO KAMP.json!
+[error]	2024-08-16 18:27:51.596415[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2 - OpenNept4une -mine.json!
+[error]	2024-08-16 18:27:51.596596[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 Pro (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:27:51.596780[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:27:51.596965[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro.json!
+[error]	2024-08-16 18:27:51.597141[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4.json!
+[error]	2024-08-16 18:27:51.597330[Thread 0x00007d0b2345cb80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2.json!
+[error]	2024-08-16 18:27:52.136119[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:27:52.253811[Thread 0x00007d0b2345cb80]:06:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:27:52.255734[Thread 0x00007d0b2345cb80]:06:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:27:52.257702[Thread 0x00007d0b2345cb80]:06:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:27:52.258996[Thread 0x00007d0b2345cb80]:06:27:52 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-08-16 18:27:52.787980[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:27:52.798425[Thread 0x00007d0b2345cb80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-16 18:27:56.248850[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:28:14.865271[Thread 0x00007d0b2345cb80]:Unable to load bed model: C:\Users\majke\Desktop\3D print\OrcaSlicer_Windows_V2.0.0-dev_portable\OrcaSlicer\resources\profiles\Elegoo\elegoo_neptune4pro_buildplate_model.stl
+[error]	2024-08-16 18:28:14.865336[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:28:14.865976[Thread 0x00007d0b2345cb80]:Unable to load bed texture: C:\Users\majke\Desktop\3D print\OrcaSlicer_Windows_V2.0.0-dev_portable\OrcaSlicer\resources\profiles\Elegoo\elegoo_neptune4pro_buildplate_texture.png
+[error]	2024-08-16 18:30:13.008287[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:13.018182[Thread 0x00007d0b2345cb80]:Unable to load bed model: C:\Users\majke\Desktop\3D print\OrcaSlicer_Windows_V2.0.0-dev_portable\OrcaSlicer\resources\profiles\Elegoo\elegoo_neptune4pro_buildplate_model.stl
+[error]	2024-08-16 18:30:13.018195[Thread 0x00007d0b2345cb80]:Unable to load bed texture: C:\Users\majke\Desktop\3D print\OrcaSlicer_Windows_V2.0.0-dev_portable\OrcaSlicer\resources\profiles\Elegoo\elegoo_neptune4pro_buildplate_texture.png
+[error]	2024-08-16 18:30:14.937619[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:14.954629[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:14.971317[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:14.988330[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:15.005303[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:15.005644[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:15.005960[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:30:15.028007[Thread 0x00007d0b2345cb80]:validate_preset: preset_name N4, inherit_name Elegoo Neptune 4 Pro (0.4 nozzle), can not found preset and inherit in list
+[warning]	2024-08-16 18:30:15.028018[Thread 0x00007d0b2345cb80]:validate_presets:file_name DragonEggStandardBottom.3mf, found the printer preset not inherit from system
+[warning]	2024-08-16 18:30:15.028022[Thread 0x00007d0b2345cb80]:validate_preset: preset_name PLA - 215+65 - Fans 100, inherit_name Elegoo Generic PLA, can not found preset and inherit in list
+[warning]	2024-08-16 18:30:15.028024[Thread 0x00007d0b2345cb80]:validate_presets:file_name DragonEggStandardBottom.3mf, found the filament 1 preset not inherit from system
+[warning]	2024-08-16 18:30:15.028026[Thread 0x00007d0b2345cb80]:validate_presets:file_name DragonEggStandardBottom.3mf, found self defined presets, count 2
+[error]	2024-08-16 18:30:21.759049[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:21.759453[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:21.759774[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:21.760083[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:21.760381[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2024-08-16 18:30:22.679153[Thread 0x00007d0b2345cb80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2024-08-16 18:30:22.868136[Thread 0x00007d0b2345cb80]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "My Generic TPU - Copy"
+    ],
+    "filament_vendor": [
+        "Generic1"
+    ],
+    "from": "User",
+    "inherits": "My Generic TPU",
+    "is_custom_defined": "0",
+    "name": "My Generic TPU - Copy",
+    "version": "2.0.2.0"
+}

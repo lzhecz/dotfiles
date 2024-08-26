@@ -1,0 +1,31 @@
+[error]	2024-08-16 18:31:17.432174[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm PETG @Elegoo Neptune4Pro (0.4 nozzle)-OpenNept4une.json!
+[error]	2024-08-16 18:31:17.432305[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm Standard @Elegoo Neptune4Pro (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:31:17.432395[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm.json!
+[error]	2024-08-16 18:31:17.432477[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm 8k 18mvs.json!
+[error]	2024-08-16 18:31:17.432562[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm 8k.json!
+[error]	2024-08-16 18:31:17.432917[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm Standard @Elegoo Neptune4 (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:31:17.433003[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-8k.json!
+[error]	2024-08-16 18:31:17.433086[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-10k.json!
+[error]	2024-08-16 18:31:17.433169[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-10k 25mvs.json!
+[error]	2024-08-16 18:31:17.433250[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/process/0.20mm-8k 25mvs.json!
+[error]	2024-08-16 18:31:17.434032[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo Generic PETG-OpenNept4une.json!
+[error]	2024-08-16 18:31:17.434071[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PLA stock.json!
+[error]	2024-08-16 18:31:17.434093[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo Generic PLA - Copy.json!
+[error]	2024-08-16 18:31:17.434206[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/PLA - 215+65 - Fans 100.json!
+[error]	2024-08-16 18:31:17.434245[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/filament/Elegoo Generic PLA - OpenNept4une.json!
+[error]	2024-08-16 18:31:17.434767[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2 - OpenNept4une.json!
+[error]	2024-08-16 18:31:17.434846[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2 - OpenNept4une - NO KAMP.json!
+[error]	2024-08-16 18:31:17.435116[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2 - OpenNept4une -mine.json!
+[error]	2024-08-16 18:31:17.435190[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 Pro (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:31:17.435262[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/Elegoo Neptune 4 (0.4 nozzle) - OpenNept4une.json!
+[error]	2024-08-16 18:31:17.435338[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro.json!
+[error]	2024-08-16 18:31:17.435416[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4.json!
+[error]	2024-08-16 18:31:17.435488[Thread 0x0000794f15911b80]:can not find parent for config /home/lzhecz/.config/OrcaSlicer/user/default/machine/N4Pro2.json!
+[error]	2024-08-16 18:31:17.938328[Thread 0x0000794f15911b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:31:18.100761[Thread 0x0000794f15911b80]:06:31:18 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:31:18.103164[Thread 0x0000794f15911b80]:06:31:18 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:31:18.104152[Thread 0x0000794f15911b80]:06:31:18 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2024-08-16 18:31:18.105042[Thread 0x0000794f15911b80]:06:31:18 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2024-08-16 18:31:18.651194[Thread 0x0000794f15911b80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2024-08-16 18:31:18.665615[Thread 0x0000794f15911b80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2024-08-16 18:31:39.307007[Thread 0x0000794f15911b80]:calc_exclude_triangles:Unable to create exclude triangles
