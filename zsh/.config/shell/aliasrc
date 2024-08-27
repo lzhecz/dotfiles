@@ -14,7 +14,6 @@ alias \
 
 # Colorize commands when possible.
 alias \
-	find="fd" \
 	ls="eza --icons -a --group-directories-first" \
 	ip="ip -color=auto" \
 	ll="eza --icons -lha --group-directories-first" \

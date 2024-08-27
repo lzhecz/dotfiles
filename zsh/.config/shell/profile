@@ -2,8 +2,8 @@
 unsetopt PROMPT_SP
 
 # Adds `~/.local/bin` to $PATH
-export PATH="$PATH:${$(find ~/.local/bin -type d -printf %p:)%%:}"
-export PATH="$PATH:${$(find ~/bin -type d -printf %p:)%%:}"
+export PATH="$PATH:${$(find ~/.local/bin/ -type d -printf %p:)%%:}"
+export PATH="$PATH:${$(find ~/bin/ in -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find ~/.scripts -type d -printf %p:)%%:}"
 # export PATH="$PATH:${$(find ~/.config/emacs/bin -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find /var/lib/flatpak/exports/bin -type d -printf %p:)%%:}"

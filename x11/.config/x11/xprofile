@@ -4,12 +4,12 @@
 # If you use startx/xinit like a Chad, this file will also be sourced.
 
 #xrandr --auto
-xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary # if no second display
-xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary --output HDMI-0 --mode 1024x600 --pos 3440x0
-#xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary --output HDMI-0 --mode 1024x768 --pos 3440x0
-xinput --map-to-output 'wch.cn USB2IIC_CTP_CONTROL' HDMI-0 # map touchscreen display
-xinput create-master touchscreen
-xinput reattach 'wch.cn USB2IIC_CTP_CONTROL' 'touchscreen pointer'
+xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary & # if no second display
+xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary --output HDMI-0 --mode 1024x600 --pos 3440x0 &
+#xrandr --output DP-4 --mode 3440x1440 --rate 165.00 --pos 0x0 --dpi 96 --primary --output HDMI-0 --mode 1024x768 --pos 3440x0 &
+xinput --map-to-output 'wch.cn USB2IIC_CTP_CONTROL' HDMI-0 & # map touchscreen display
+xinput create-master touchscreen &
+xinput reattach 'wch.cn USB2IIC_CTP_CONTROL' 'touchscreen pointer' &
 #xrandr x--output DP-4 --mode 3440x1440 --rate 165.00 --output HDMI-0 --off
 #xrandr --output DP-2 --mode 3440x1440 --rate 165.00 --output HDMI-0 --off
 #xrandr --output DP-4 -r 165 --output HDMI-0 --off
