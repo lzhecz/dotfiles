@@ -14,5 +14,5 @@ else
 	. "$HOME/.xprofile"
 fi
 
-#[[ -n "$XDG_VTNR" && $XDG_VTNR -le 2 ]] && tbsm
-exec dusk
+[[ -n "$XDG_VTNR" && $XDG_VTNR -le 2 ]] && tbsm
+dbus-launch dusk

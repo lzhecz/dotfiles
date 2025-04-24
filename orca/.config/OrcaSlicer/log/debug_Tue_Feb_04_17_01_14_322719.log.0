@@ -1,0 +1,15 @@
+[error]	2025-02-04 17:01:15.990506[Thread 0x00007e4e449f9c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-04 17:01:15.995334[Thread 0x00007e4dc85fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-04 17:01:15.995370[Thread 0x00007e4dc85fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-04 17:01:15.995375[Thread 0x00007e4dc85fe6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[warning]	2025-02-04 17:01:16.239624[Thread 0x00007e4e449f9c80]:05:01:16 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:16.240671[Thread 0x00007e4e449f9c80]:05:01:16 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:16.241812[Thread 0x00007e4e449f9c80]:05:01:16 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:16.259365[Thread 0x00007e4e449f9c80]:05:01:16 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-02-04 17:01:17.106993[Thread 0x00007e4e449f9c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-04 17:01:17.461201[Thread 0x00007e4dcc5fe6c0]:[install_plugin]: 1379, got 3 files
+[warning]	2025-02-04 17:01:17.583412[Thread 0x00007e4e449f9c80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-02-04 17:01:17.583437[Thread 0x00007e4e449f9c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-02-04 17:01:17.583448[Thread 0x00007e4e449f9c80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[warning]	2025-02-04 17:01:19.673193[Thread 0x00007e4dcc5fe6c0]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-02-04 17:01:47.332028[Thread 0x00007e4e449f9c80]:calc_exclude_triangles:Unable to create exclude triangles

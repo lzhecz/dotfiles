@@ -1,5 +1,6 @@
 #define BASE_FOREGROUND #FEA674
 #define BASE_BACKGROUND #3D322C
+#define TERMINAL_BACKGROUND #2d221c
 #define SELECTED_FOREGROUND #FEA674
 #define SELECTED_BACKGROUND #944039
 #define MARKED_FG_COLOR #3D322C
@@ -25,3 +26,7 @@
 #define COLOR13 #D56059
 #define COLOR14 #AA405C
 #define COLOR15 #CF3030
+
+dusk.norm.*.border.color: #3D322C
+dusk.act.*.border.color: #5D523C
+dusk.sel.*.border.color: #AA405C

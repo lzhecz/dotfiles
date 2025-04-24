@@ -1,0 +1,20 @@
+[error]	2025-02-07 18:01:29.036675[Thread 0x0000796e177fe6c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-02-07 18:01:29.036733[Thread 0x0000796e177fe6c0]:Dbus Messages listening terminating.
+[error]	2025-02-07 18:01:29.303891[Thread 0x0000796ea747ec80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-07 18:01:29.308419[Thread 0x0000796e347fc6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-07 18:01:29.308465[Thread 0x0000796e347fc6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-07 18:01:29.308504[Thread 0x0000796e15ffb6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[warning]	2025-02-07 18:01:29.479553[Thread 0x0000796ea747ec80]:06:01:29 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-07 18:01:29.482442[Thread 0x0000796ea747ec80]:06:01:29 PM: Navigation complete; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-07 18:01:29.483101[Thread 0x0000796ea747ec80]:06:01:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:29.484004[Thread 0x0000796ea747ec80]:06:01:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:29.484914[Thread 0x0000796ea747ec80]:06:01:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:29.499827[Thread 0x0000796ea747ec80]:06:01:29 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:30.131176[Thread 0x0000796ea747ec80]:06:01:30 PM: Script message received; value = {"sequence_id":1738944090,"command":"get_login_info"}, handler = 
+[warning]	2025-02-07 18:01:30.131212[Thread 0x0000796ea747ec80]:06:01:30 PM: Script message received; value = {"sequence_id":1738944090,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-07 18:01:30.132855[Thread 0x0000796ea747ec80]:06:01:30 PM: Script message received; value = {"sequence_id":1738944090,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-07 18:01:30.132885[Thread 0x0000796ea747ec80]:06:01:30 PM: Document loaded; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-07 18:01:30.209971[Thread 0x0000796ea747ec80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-07 18:01:54.908943[Thread 0x0000796ea747ec80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:01:55.545495[Thread 0x0000796ea747ec80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:41.043505[Thread 0x0000796ea747ec80]:calc_exclude_triangles:Unable to create exclude triangles

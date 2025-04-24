@@ -29,6 +29,7 @@ alias \
 	e="$EDITOR" \
 	v="$EDITOR" \
 	p="pacman" \
+	z="zeditor" \
 
 cpr() {
   rsync --archive -hh --partial --info=stats1,progress2 --modify-window=1 "$@"
@@ -38,3 +39,9 @@ mvr() {
 }
 alias config='/usr/bin/git --git-dir=/home/lzhecz/.cfg/ --work-tree=/home/lzhecz'
 alias configls="config ls-tree -r --name-only @ | cut -f1,2 -d '/' | uniq"
+
+gitgo() {
+    git add .
+    git commit -m "upd"
+    git push
+}

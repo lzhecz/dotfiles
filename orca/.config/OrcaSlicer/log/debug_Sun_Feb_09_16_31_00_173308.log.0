@@ -1,0 +1,9 @@
+[error]	2025-02-09 16:31:01.819268[Thread 0x00007fbc7daf9c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-09 16:31:01.824243[Thread 0x00007fbbdaffd6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-09 16:31:01.824312[Thread 0x00007fbc7daf9c80]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-02-09 16:31:01.824513[Thread 0x00007fbbdaffd6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-02-09 16:31:02.002509[Thread 0x00007fbc7daf9c80]:04:31:02 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-09 16:31:02.007672[Thread 0x00007fbc7daf9c80]:04:31:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-09 16:31:02.008821[Thread 0x00007fbc7daf9c80]:04:31:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-09 16:31:02.009964[Thread 0x00007fbc7daf9c80]:04:31:02 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-09 16:31:02.010861[Thread 0x00007fbc7daf9c80]:04:31:02 PM: Warning: Error running JavaScript: Unsupported result type

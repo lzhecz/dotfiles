@@ -210,3 +210,5 @@ if command -v pyenv 1>/dev/null 2>&1; then
 fi
 eval "$(fzf --zsh)"
 eval "$(zoxide init zsh)"
+
+export PATH=$PATH:/home/lzhecz/.millennium/ext/bin

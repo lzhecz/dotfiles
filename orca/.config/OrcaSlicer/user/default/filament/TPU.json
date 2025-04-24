@@ -1,6 +1,6 @@
 {
     "close_fan_the_first_x_layers": [
-        "0"
+        "4"
     ],
     "compatible_printers": [
         "Elegoo Neptune 0.4 nozzle",
@@ -29,25 +29,31 @@
         "100"
     ],
     "fan_max_speed": [
-        "80"
+        "100"
     ],
     "fan_min_speed": [
-        "50"
+        "100"
     ],
     "filament_density": [
-        "1.24"
+        "1.21"
     ],
     "filament_deretraction_speed": [
         "20"
     ],
     "filament_flow_ratio": [
-        "0.98"
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "15"
     ],
     "filament_retraction_length": [
-        "1.5"
+        "2.5"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2"
     ],
     "filament_retraction_speed": [
-        "40"
+        "60"
     ],
     "filament_settings_id": [
         "TPU"
@@ -58,6 +64,9 @@
     "filament_vendor": [
         "Eryone"
     ],
+    "filament_wipe": [
+        "0"
+    ],
     "filament_z_hop": [
         "0"
     ],
@@ -66,19 +75,19 @@
     ],
     "from": "User",
     "full_fan_speed_layer": [
-        "5"
+        "6"
     ],
     "hot_plate_temp": [
-        "35"
+        "50"
     ],
     "hot_plate_temp_initial_layer": [
-        "35"
+        "50"
     ],
     "inherits": "Elegoo Generic PETG",
     "is_custom_defined": "0",
     "name": "TPU",
     "nozzle_temperature": [
-        "220"
+        "225"
     ],
     "nozzle_temperature_initial_layer": [
         "225"
@@ -94,6 +103,9 @@
     ],
     "overhang_fan_threshold": [
         "50%"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
     ],
     "temperature_vitrification": [
         "60"

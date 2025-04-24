@@ -69,7 +69,7 @@
     ],
     "name": "N4Pro2",
     "nozzle_type": "undefine",
-    "print_host": "192.168.100.41",
+    "print_host": "192.168.100.41:7125",
     "printable_area": [
         "0x0",
         "235x0",

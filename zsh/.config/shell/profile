@@ -3,13 +3,14 @@ unsetopt PROMPT_SP
 
 # Adds `~/.local/bin` to $PATH
 export PATH="$PATH:${$(find ~/.local/bin/ -type d -printf %p:)%%:}"
-export PATH="$PATH:${$(find ~/bin/ in -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find ~/bin/ -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find ~/.scripts -type d -printf %p:)%%:}"
-# export PATH="$PATH:${$(find ~/.config/emacs/bin -type d -printf %p:)%%:}"
+#export PATH="$PATH:${$(find ~/.config/emacs/bin -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find /var/lib/flatpak/exports/bin -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find ~/.local/share/flatpak/exports/bin -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find /var/lib/flatpak/exports/bin -type d -printf %p:)%%:}"
 #export PATH="$PATH:${$(find ~/.local/share/flatpak/exports/bin -type d -printf %p:)%%:}"
+export PATH="$PATH:${$(find ~/.config/rofi/scripts/ -type d -printf %p:)%%:}"
 
 # Default programs:
 export DESKTOP_SESSION="dusk"
@@ -19,10 +20,14 @@ export EDITOR="nvim"
 export VISUAL="code"
 export TERMINAL="st"
 export BROWSER="brave"
-export SUDO_ASKPASS="dmenupass"
+#export SUDO_ASKPASS="dmenupass"
 export TERM=st
-export GTK_THEME="Materia-dark-compact"
+export GTK_THEME="adw-gtk3-dark:dark"
 export PROTON_VERSION="Proton-GE"
+#orca slicer
+export WEBKIT_DISABLE_DMABUF_RENDERER="1"
+export __EGL_VENDOR_LIBRARY_FILENAMES="/usr/share/glvnd/egl_vendor.d/10_nvidia.json"
+#export npm_config_prefix="$HOME/.local"
 
 unset SSH_AGENT_PID
 if [ "${gnupg_SSH_AUTH_SOCK_by:-0}" -ne $$ ]; then
@@ -58,5 +63,4 @@ export QT_QPA_PLATFORMTHEME="qt5ct"
 
 if [ -z "${DISPLAY}" ] && [ "${XDG_VTNR}" -eq 1 ]; then
   exec startx "$XINITRC"
-
 fi

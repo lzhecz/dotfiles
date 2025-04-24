@@ -33,3 +33,5 @@ while true; do
     # Apply the selected theme
     apply_theme "$SELECTED_THEME"
 done
+
+/bin/sh dusktorofi.sh

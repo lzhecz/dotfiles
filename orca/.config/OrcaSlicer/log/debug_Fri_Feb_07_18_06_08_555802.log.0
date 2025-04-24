@@ -1,0 +1,26 @@
+[error]	2025-02-07 18:06:09.186728[Thread 0x00007388219fdc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-07 18:06:09.191411[Thread 0x00007387a4ffa6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-07 18:06:09.191450[Thread 0x00007387a4ffa6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-07 18:06:09.191456[Thread 0x00007387a4ffa6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[warning]	2025-02-07 18:06:09.357408[Thread 0x00007388219fdc80]:06:06:09 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-07 18:06:09.359719[Thread 0x00007388219fdc80]:06:06:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:06:09.360525[Thread 0x00007388219fdc80]:06:06:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:06:09.361239[Thread 0x00007388219fdc80]:06:06:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:06:09.362020[Thread 0x00007388219fdc80]:06:06:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:06:09.969639[Thread 0x00007388219fdc80]:06:06:09 PM: Navigation complete; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-07 18:06:09.969845[Thread 0x00007388219fdc80]:06:06:09 PM: Script message received; value = {"sequence_id":1738944369,"command":"get_login_info"}, handler = 
+[warning]	2025-02-07 18:06:09.969869[Thread 0x00007388219fdc80]:06:06:09 PM: Script message received; value = {"sequence_id":1738944369,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-07 18:06:09.971797[Thread 0x00007388219fdc80]:06:06:09 PM: Script message received; value = {"sequence_id":1738944369,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-07 18:06:09.971842[Thread 0x00007388219fdc80]:06:06:09 PM: Document loaded; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-07 18:06:10.060181[Thread 0x00007388219fdc80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-07 18:06:16.252413[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:16.969660[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:17.582966[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:18.000242[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:24.773173[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:24.790225[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:24.796572[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:26.259976[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:26.636925[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:06:28.935666[Thread 0x00007388219fdc80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:47:15.952875[Thread 0x00007388219fdc80]:calc_exclude_triangles:Unable to create exclude triangles

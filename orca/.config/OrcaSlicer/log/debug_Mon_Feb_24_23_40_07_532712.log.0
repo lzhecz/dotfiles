@@ -1,0 +1,20 @@
+[error]	2025-02-24 23:40:09.429243[Thread 0x00007c24ff661cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-24 23:40:09.432819[Thread 0x00007c246dbff6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-24 23:40:09.432850[Thread 0x00007c246dbff6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-24 23:40:09.432878[Thread 0x00007c246d3fd6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[warning]	2025-02-24 23:40:09.696189[Thread 0x00007c24ff661cc0]:11:40:09 PM: Navigation request to 'file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-24 23:40:09.699867[Thread 0x00007c24ff661cc0]:11:40:09 PM: Navigation complete; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-24 23:40:09.701096[Thread 0x00007c24ff661cc0]:11:40:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 23:40:09.702635[Thread 0x00007c24ff661cc0]:11:40:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 23:40:09.703969[Thread 0x00007c24ff661cc0]:11:40:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 23:40:09.728691[Thread 0x00007c24ff661cc0]:11:40:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 23:40:10.508984[Thread 0x00007c24ff661cc0]:11:40:10 PM: Script message received; value = {"sequence_id":1740433210,"command":"get_login_info"}, handler = 
+[warning]	2025-02-24 23:40:10.509022[Thread 0x00007c24ff661cc0]:11:40:10 PM: Script message received; value = {"sequence_id":1740433210,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-24 23:40:10.511508[Thread 0x00007c24ff661cc0]:11:40:10 PM: Script message received; value = {"sequence_id":1740433210,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-24 23:40:10.511559[Thread 0x00007c24ff661cc0]:11:40:10 PM: Document loaded; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-24 23:40:10.539583[Thread 0x00007c24ff661cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-24 23:40:10.553547[Thread 0x00007c24ff661cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-24 23:40:14.584247[Thread 0x00007c24ff661cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-24 23:40:23.267387[Thread 0x00007c24ecdfd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":60.000000,"clearance_height_to_lid":250.000000,"clearance_radius":60.000000,"printable_height":265.000000,
+[warning]	2025-02-24 23:40:25.318099[Thread 0x00007c24ecdfd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":60.000000,"clearance_height_to_lid":250.000000,"clearance_radius":60.000000,"printable_height":265.000000,
+[error]	2025-02-25 00:23:12.688440[Thread 0x00007c24ff661cc0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -8,15 +8,15 @@
     "is_custom_defined": "0",
     "machine_end_gcode": "PRINT_END",
     "machine_max_acceleration_e": [
-        "2000",
+        "2500",
         "5000"
     ],
     "machine_max_acceleration_extruding": [
-        "20000",
+        "8000",
         "20000"
     ],
     "machine_max_acceleration_retracting": [
-        "20000",
+        "1200",
         "5000"
     ],
     "machine_max_acceleration_travel": [
@@ -24,11 +24,11 @@
         "20000"
     ],
     "machine_max_acceleration_x": [
-        "20000",
+        "8000",
         "20000"
     ],
     "machine_max_acceleration_y": [
-        "20000",
+        "8000",
         "20000"
     ],
     "machine_max_acceleration_z": [
@@ -48,19 +48,19 @@
         "12"
     ],
     "machine_max_speed_e": [
-        "45",
+        "100",
         "25"
     ],
     "machine_max_speed_x": [
-        "500",
+        "200",
         "200"
     ],
     "machine_max_speed_y": [
-        "500",
+        "200",
         "200"
     ],
     "machine_max_speed_z": [
-        "20",
+        "40",
         "12"
     ],
     "machine_start_gcode": ";Nozzle diameter = [nozzle_diameter]\n;Filament type = [filament_type]\n;Filament name = [filament_vendor] \n;Filament weight = [filament_density]\nPRINT_START BED_TEMP=[hot_plate_temp_initial_layer] EXTRUDER_TEMP=[nozzle_temperature_initial_layer] AREA_START={first_layer_print_min[0]},{first_layer_print_min[1]} AREA_END={first_layer_print_max[0]},{first_layer_print_max[1]} BED_MESH=adaptive",
@@ -69,7 +69,7 @@
     ],
     "name": "N4",
     "nozzle_type": "undefine",
-    "print_host": "192.168.100.31",
+    "print_host": "192.168.100.31:7125",
     "printable_area": [
         "0x0",
         "235x0",
@@ -93,6 +93,9 @@
         "45"
     ],
     "thumbnails": "160x160/PNG",
+    "travel_slope": [
+        "1"
+    ],
     "use_firmware_retraction": "1",
     "version": "1.9.0.2",
     "wipe": [

@@ -14,8 +14,9 @@
 #define COLOR13 #6666ea
 #define COLOR14 #3d97b8
 #define COLOR15 #1b1918
-#define BASE_BACKGROUND #f1efee
 #define BASE_FOREGROUND #68615e
+#define BASE_BACKGROUND #f1efee
+#define TERMINAL_BACKGROUND #e1dfde
 #define CURSOR #68615e
 
 #define SELECTED_FOREGROUND COLOR0

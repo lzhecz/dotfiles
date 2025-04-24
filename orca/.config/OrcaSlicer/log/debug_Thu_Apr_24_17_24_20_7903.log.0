@@ -1,0 +1,19 @@
+[error]	2025-04-24 17:24:24.314670[Thread 0x0000733afb39dcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-04-24 17:24:24.319101[Thread 0x0000733a627fb6c0]:Unable to open the file/home/lzhecz/Documents/K678 mic arm part .3mf
+[error]	2025-04-24 17:24:24.319261[Thread 0x0000733a62bfc6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-04-24 17:24:24.319379[Thread 0x0000733a3bbfe6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-04-24 17:24:24.319613[Thread 0x0000733a637ff6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-04-24 17:24:24.542744[Thread 0x0000733afb39dcc0]:05:24:24 PM: Navigation request to 'file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-04-24 17:24:24.547448[Thread 0x0000733afb39dcc0]:05:24:24 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-24 17:24:24.548160[Thread 0x0000733afb39dcc0]:05:24:24 PM: Navigation complete; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-04-24 17:24:24.550014[Thread 0x0000733afb39dcc0]:05:24:24 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-24 17:24:24.551096[Thread 0x0000733afb39dcc0]:05:24:24 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-24 17:24:24.570046[Thread 0x0000733afb39dcc0]:05:24:24 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-04-24 17:24:25.256608[Thread 0x0000733afb39dcc0]:05:24:25 PM: Script message received; value = {"sequence_id":1745504665,"command":"get_login_info"}, handler = 
+[warning]	2025-04-24 17:24:25.256644[Thread 0x0000733afb39dcc0]:05:24:25 PM: Script message received; value = {"sequence_id":1745504665,"command":"get_recent_projects"}, handler = 
+[warning]	2025-04-24 17:24:25.258548[Thread 0x0000733afb39dcc0]:05:24:25 PM: Script message received; value = {"sequence_id":1745504665,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-04-24 17:24:25.258577[Thread 0x0000733afb39dcc0]:05:24:25 PM: Document loaded; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-04-24 17:24:25.265826[Thread 0x0000733afb39dcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-04-24 17:24:25.276203[Thread 0x0000733afb39dcc0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-04-24 17:24:26.088292[Thread 0x0000733afb39dcc0]:05:24:26 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-04-24 17:24:33.959020[Thread 0x0000733afb39dcc0]:calc_exclude_triangles:Unable to create exclude triangles

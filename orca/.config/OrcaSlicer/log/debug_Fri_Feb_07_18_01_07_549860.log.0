@@ -1,0 +1,32 @@
+[error]	2025-02-07 18:01:08.082628[Thread 0x00007dda56a1ac80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-07 18:01:08.087444[Thread 0x00007dd9e47fc6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-07 18:01:08.087484[Thread 0x00007dd9e47fc6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-07 18:01:08.087545[Thread 0x00007dd9c5ffb6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[warning]	2025-02-07 18:01:08.269258[Thread 0x00007dda56a1ac80]:06:01:08 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-07 18:01:08.272128[Thread 0x00007dda56a1ac80]:06:01:08 PM: Navigation complete; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-07 18:01:08.272969[Thread 0x00007dda56a1ac80]:06:01:08 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:08.274040[Thread 0x00007dda56a1ac80]:06:01:08 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:08.275000[Thread 0x00007dda56a1ac80]:06:01:08 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-07 18:01:08.275923[Thread 0x00007dda56a1ac80]:06:01:08 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-02-07 18:01:08.840084[Thread 0x00007dda56a1ac80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-07 18:01:08.888532[Thread 0x00007dda56a1ac80]:06:01:08 PM: Script message received; value = {"sequence_id":1738944068,"command":"get_login_info"}, handler = 
+[warning]	2025-02-07 18:01:08.888573[Thread 0x00007dda56a1ac80]:06:01:08 PM: Script message received; value = {"sequence_id":1738944068,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-07 18:01:08.890472[Thread 0x00007dda56a1ac80]:06:01:08 PM: Script message received; value = {"sequence_id":1738944068,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-07 18:01:08.890515[Thread 0x00007dda56a1ac80]:06:01:08 PM: Document loaded; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-07 18:01:09.023050[Thread 0x00007dda56a1ac80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-07 18:01:09.039346[Thread 0x00007dda56a1ac80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-07 18:01:09.055291[Thread 0x00007dda56a1ac80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-07 18:01:09.089238[Thread 0x00007dda56a1ac80]:validate_presets:preset index 1, different key filament_start_gcode
+[warning]	2025-02-07 18:01:09.089252[Thread 0x00007dda56a1ac80]:validate_presets:file_name K678 mic arm part .3mf, found different gcodes count 1
+[warning]	2025-02-07 18:01:10.361878[Thread 0x00007dda56a1ac80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-07 18:01:13.012651[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:06.023461[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:11.711641[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:18.464513[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:18.477489[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:23.340416[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:23.350729[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:25.455301[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:02:25.834848[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-02-07 18:03:35.622852[Thread 0x00007dda56a1ac80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-07 18:03:35.641263[Thread 0x00007dda56a1ac80]:tree_sel_change_delayedcan not find page with current selection 

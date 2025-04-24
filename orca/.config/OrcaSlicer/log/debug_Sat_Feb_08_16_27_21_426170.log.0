@@ -1,0 +1,17 @@
+[error]	2025-02-08 16:27:21.585767[Thread 0x00007c7423f2cc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-08 16:27:21.590915[Thread 0x00007c73b05fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-08 16:27:21.591067[Thread 0x00007c738dbf66c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-02-08 16:27:21.591307[Thread 0x00007c73b05fe6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-02-08 16:27:21.775058[Thread 0x00007c7423f2cc80]:04:27:21 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-08 16:27:21.779686[Thread 0x00007c7423f2cc80]:04:27:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-08 16:27:21.780645[Thread 0x00007c7423f2cc80]:04:27:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-08 16:27:21.781550[Thread 0x00007c7423f2cc80]:04:27:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-08 16:27:21.782640[Thread 0x00007c7423f2cc80]:04:27:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-08 16:27:22.399692[Thread 0x00007c7423f2cc80]:04:27:22 PM: Navigation complete; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-08 16:27:22.401618[Thread 0x00007c7423f2cc80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-08 16:27:22.412455[Thread 0x00007c7423f2cc80]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-02-08 16:27:22.437335[Thread 0x00007c7423f2cc80]:04:27:22 PM: Script message received; value = {"sequence_id":1739024842,"command":"get_login_info"}, handler = 
+[warning]	2025-02-08 16:27:22.437374[Thread 0x00007c7423f2cc80]:04:27:22 PM: Script message received; value = {"sequence_id":1739024842,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-08 16:27:22.439046[Thread 0x00007c7423f2cc80]:04:27:22 PM: Script message received; value = {"sequence_id":1739024842,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-08 16:27:22.439084[Thread 0x00007c7423f2cc80]:04:27:22 PM: Document loaded; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-08 16:27:23.153929[Thread 0x00007c7423f2cc80]:calc_exclude_triangles:Unable to create exclude triangles

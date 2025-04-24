@@ -1,0 +1,18 @@
+[error]	2025-03-04 16:38:33.789368[Thread 0x000073a212eeecc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-04 16:38:33.793542[Thread 0x000073a189bfa6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-04 16:38:33.793573[Thread 0x000073a1627f96c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-03-04 16:38:33.793822[Thread 0x000073a189ffb6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-04 16:38:33.967676[Thread 0x000073a212eeecc0]:04:38:33 PM: Navigation request to 'file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-03-04 16:38:33.972076[Thread 0x000073a212eeecc0]:04:38:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-04 16:38:33.972721[Thread 0x000073a212eeecc0]:04:38:33 PM: Navigation complete; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-03-04 16:38:33.974508[Thread 0x000073a212eeecc0]:04:38:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-04 16:38:33.975414[Thread 0x000073a212eeecc0]:04:38:33 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-04 16:38:33.992623[Thread 0x000073a212eeecc0]:04:38:33 PM: Script message received; value = {"sequence_id":1741099114,"command":"get_login_info"}, handler = 
+[warning]	2025-03-04 16:38:33.992691[Thread 0x000073a212eeecc0]:04:38:33 PM: Script message received; value = {"sequence_id":1741099114,"command":"get_recent_projects"}, handler = 
+[warning]	2025-03-04 16:38:33.996845[Thread 0x000073a212eeecc0]:04:38:33 PM: Script message received; value = {"sequence_id":1741099114,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-03-04 16:38:33.996894[Thread 0x000073a212eeecc0]:04:38:33 PM: Document loaded; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-03-04 16:38:33.997590[Thread 0x000073a212eeecc0]:04:38:33 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-03-04 16:38:34.698788[Thread 0x000073a212eeecc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-04 16:38:34.709929[Thread 0x000073a212eeecc0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-03-04 16:39:23.554128[Thread 0x000073a212eeecc0]:04:39:23 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-03-04 16:40:33.010749[Thread 0x000073a212eeecc0]:calc_exclude_triangles:Unable to create exclude triangles

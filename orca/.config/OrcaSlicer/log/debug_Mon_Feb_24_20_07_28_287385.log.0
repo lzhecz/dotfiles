@@ -1,0 +1,17 @@
+[error]	2025-02-24 20:07:32.490839[Thread 0x0000764b460ffcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-24 20:07:32.495828[Thread 0x0000764a9f7fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-24 20:07:32.495867[Thread 0x0000764a9effc6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-02-24 20:07:32.495871[Thread 0x0000764a9f7fe6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-02-24 20:07:32.684060[Thread 0x0000764b460ffcc0]:08:07:32 PM: Navigation request to 'file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-24 20:07:32.686368[Thread 0x0000764b460ffcc0]:08:07:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 20:07:32.687201[Thread 0x0000764b460ffcc0]:08:07:32 PM: Navigation complete; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-24 20:07:32.688635[Thread 0x0000764b460ffcc0]:08:07:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 20:07:32.689600[Thread 0x0000764b460ffcc0]:08:07:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 20:07:32.708093[Thread 0x0000764b460ffcc0]:08:07:32 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-24 20:07:33.319379[Thread 0x0000764b460ffcc0]:08:07:33 PM: Script message received; value = {"sequence_id":1740420453,"command":"get_login_info"}, handler = 
+[warning]	2025-02-24 20:07:33.319412[Thread 0x0000764b460ffcc0]:08:07:33 PM: Script message received; value = {"sequence_id":1740420453,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-24 20:07:33.321269[Thread 0x0000764b460ffcc0]:08:07:33 PM: Script message received; value = {"sequence_id":1740420453,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-24 20:07:33.321300[Thread 0x0000764b460ffcc0]:08:07:33 PM: Document loaded; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-24 20:07:33.329067[Thread 0x0000764b460ffcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-24 20:07:33.340261[Thread 0x0000764b460ffcc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-24 20:07:37.141868[Thread 0x0000764b460ffcc0]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,11 @@
+[error]	2025-02-04 17:00:21.172233[Thread 0x0000745e305c0c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-04 17:00:21.177366[Thread 0x0000745d947f26c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-02-04 17:00:21.177456[Thread 0x0000745d977fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-04 17:00:21.177613[Thread 0x0000745d96bfb6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-02-04 17:00:21.390675[Thread 0x0000745e305c0c80]:05:00:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:00:21.391588[Thread 0x0000745e305c0c80]:05:00:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:00:21.403090[Thread 0x0000745e305c0c80]:05:00:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:00:21.403977[Thread 0x0000745e305c0c80]:05:00:21 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-02-04 17:00:22.307107[Thread 0x0000745e305c0c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-04 17:00:22.321560[Thread 0x0000745e305c0c80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-04 17:01:13.397352[Thread 0x0000745e305c0c80]:calc_exclude_triangles:Unable to create exclude triangles

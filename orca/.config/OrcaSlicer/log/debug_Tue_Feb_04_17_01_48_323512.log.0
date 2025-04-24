@@ -1,0 +1,20 @@
+[warning]	2025-02-04 17:01:48.936120[Thread 0x00007c40edea2c80]:get_network_function, can not find function bambu_network_del_subscribe
+[warning]	2025-02-04 17:01:48.936166[Thread 0x00007c40edea2c80]:get_network_function, can not find function bambu_network_get_model_id_from_desgin_id
+[warning]	2025-02-04 17:01:48.936178[Thread 0x00007c40edea2c80]:get_network_function, can not find function bambu_network_get_profile_3mf
+[error]	2025-02-04 17:01:49.379466[Thread 0x00007c40edea2c80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-04 17:01:49.384017[Thread 0x00007c404f7fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-04 17:01:49.384061[Thread 0x00007c404f7fe6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-04 17:01:49.384071[Thread 0x00007c404f7fe6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[warning]	2025-02-04 17:01:49.565938[Thread 0x00007c40edea2c80]:05:01:49 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-04 17:01:49.584242[Thread 0x00007c40edea2c80]:05:01:49 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:49.585457[Thread 0x00007c40edea2c80]:05:01:49 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:49.586430[Thread 0x00007c40edea2c80]:05:01:49 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:49.587292[Thread 0x00007c40edea2c80]:05:01:49 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-04 17:01:50.356424[Thread 0x00007c40edea2c80]:05:01:50 PM: Navigation complete; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[error]	2025-02-04 17:01:50.362288[Thread 0x00007c40edea2c80]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-02-04 17:01:50.384277[Thread 0x00007c40edea2c80]:05:01:50 PM: Script message received; value = {"sequence_id":1738681310,"command":"get_login_info"}, handler = 
+[warning]	2025-02-04 17:01:50.384308[Thread 0x00007c40edea2c80]:05:01:50 PM: Script message received; value = {"sequence_id":1738681310,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-04 17:01:50.386081[Thread 0x00007c40edea2c80]:05:01:50 PM: Script message received; value = {"sequence_id":1738681310,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-04 17:01:50.386120[Thread 0x00007c40edea2c80]:05:01:50 PM: Document loaded; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-04 17:01:50.667616[Thread 0x00007c40705fe6c0]:[Orca Updater]: online version=1.9.5.1, current_version=1.9.5.1, no need to download
+[error]	2025-02-04 17:02:06.828261[Thread 0x00007c40edea2c80]:calc_exclude_triangles:Unable to create exclude triangles

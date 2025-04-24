@@ -1,0 +1,23 @@
+[error]	2025-03-01 19:13:54.124180[Thread 0x00007f3f4e597cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-03-01 19:13:54.128899[Thread 0x00007f3ec47f86c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-03-01 19:13:54.128936[Thread 0x00007f3ebcff46c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-03-01 19:13:54.129018[Thread 0x00007f3ebf3fd6c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-03-01 19:13:54.317278[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Navigation request to 'file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-03-01 19:13:54.322006[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-01 19:13:54.322588[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Navigation complete; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-03-01 19:13:54.324081[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-01 19:13:54.324954[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-03-01 19:13:54.343393[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Script message received; value = {"sequence_id":1740849234,"command":"get_login_info"}, handler = 
+[warning]	2025-03-01 19:13:54.343453[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Script message received; value = {"sequence_id":1740849234,"command":"get_recent_projects"}, handler = 
+[warning]	2025-03-01 19:13:54.347305[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Script message received; value = {"sequence_id":1740849234,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-03-01 19:13:54.347341[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Document loaded; url='file:///opt/orca-slicer-unstable/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-03-01 19:13:54.348035[Thread 0x00007f3f4e597cc0]:07:13:54 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-03-01 19:13:54.978679[Thread 0x00007f3f4e597cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-01 19:13:54.990260[Thread 0x00007f3f4e597cc0]:get_version, get_version not supported,return 00.00.00.00!
+[warning]	2025-03-01 19:14:53.479272[Thread 0x00007f3f30ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":60.000000,"clearance_height_to_lid":250.000000,"clearance_radius":60.000000,"printable_height":265.000000,
+[warning]	2025-03-01 19:14:55.094580[Thread 0x00007f3f30ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":60.000000,"clearance_height_to_lid":250.000000,"clearance_radius":60.000000,"printable_height":265.000000,
+[warning]	2025-03-01 19:15:28.200824[Thread 0x00007f3f30ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":1,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":60.000000,"clearance_height_to_lid":250.000000,"clearance_radius":60.000000,"printable_height":265.000000,
+[warning]	2025-03-01 20:13:54.345152[Thread 0x00007f3f4e597cc0]:08:13:54 PM: Script message received; value = {"sequence_id":1740852834,"command":"modelmall_model_advise_get"}, handler = 
+[error]	2025-03-01 20:39:51.473435[Thread 0x00007f3f4e597cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-03-01 21:13:54.346570[Thread 0x00007f3f4e597cc0]:09:13:54 PM: Script message received; value = {"sequence_id":1740856434,"command":"modelmall_model_advise_get"}, handler = 
+[error]	2025-03-01 22:07:14.928594[Thread 0x00007f3f4e597cc0]:calc_exclude_triangles:Unable to create exclude triangles

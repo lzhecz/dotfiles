@@ -1,0 +1,17 @@
+[error]	2025-02-10 22:28:41.570597[Thread 0x000073aa8d2ecc80]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-02-10 22:28:41.575255[Thread 0x000073a9efbfe6c0]:Unable to open the file/home/lzhecz/wm11share/!Calibration.3mf
+[error]	2025-02-10 22:28:41.575440[Thread 0x000073aa04bff6c0]:File Metadata/plate_1.png not found from archive
+[error]	2025-02-10 22:28:41.575677[Thread 0x000073a9edbf66c0]:File Metadata/plate_1.png not found from archive
+[warning]	2025-02-10 22:28:41.761820[Thread 0x000073aa8d2ecc80]:10:28:41 PM: Navigation request to 'file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US' (target='')
+[warning]	2025-02-10 22:28:41.766762[Thread 0x000073aa8d2ecc80]:10:28:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-10 22:28:41.767629[Thread 0x000073aa8d2ecc80]:10:28:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-10 22:28:41.768407[Thread 0x000073aa8d2ecc80]:10:28:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-02-10 22:28:41.769192[Thread 0x000073aa8d2ecc80]:10:28:41 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-02-10 22:28:42.406832[Thread 0x000073aa8d2ecc80]:load_files: can not find valid path, return directly
+[warning]	2025-02-10 22:28:42.466685[Thread 0x000073aa8d2ecc80]:10:28:42 PM: Navigation complete; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-10 22:28:42.466905[Thread 0x000073aa8d2ecc80]:10:28:42 PM: Script message received; value = {"sequence_id":1739219322,"command":"get_login_info"}, handler = 
+[warning]	2025-02-10 22:28:42.466946[Thread 0x000073aa8d2ecc80]:10:28:42 PM: Script message received; value = {"sequence_id":1739219322,"command":"get_recent_projects"}, handler = 
+[warning]	2025-02-10 22:28:42.469857[Thread 0x000073aa8d2ecc80]:10:28:42 PM: Script message received; value = {"sequence_id":1739219322,"command":"modelmall_model_advise_get"}, handler = 
+[warning]	2025-02-10 22:28:42.469962[Thread 0x000073aa8d2ecc80]:10:28:42 PM: Document loaded; url='file:///opt/orca-slicer/resources/web/homepage/index.html?lang=en_US'
+[warning]	2025-02-10 22:28:42.474806[Thread 0x000073aa8d2ecc80]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-02-10 22:28:43.393146[Thread 0x000073aa8d2ecc80]:calc_exclude_triangles:Unable to create exclude triangles
